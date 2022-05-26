@@ -1,0 +1,43 @@
+.rollwindow{
+    width: 80%;
+    align-items: center;
+    margin: auto;
+    float: left;
+    margin-left: 150px;
+    background-color: #ffffff;
+
+}
+.screen{
+    width: 100%;
+}
+.focusBox {
+    position: absolute;
+    top: 450px;
+    width: 120px;
+    margin-left: 260px;
+    list-style: none;
+}
+
+.focusBox li {
+    float: left;
+    margin-right: 10px;
+    width: 15px;
+    height: 15px;
+    border-radius: 10px;
+    background: gray;
+    cursor: pointer;
+}
+
+.focusBox li.cur {
+    background: #f60;
+    opacity: 0.6;
+    filter: alpha(opacity=60);
+}
+.pic_right{
+    border-left: #31d2f2 solid 5px;
+    border-radius:5px;
+}
+.clear{
+    clear:both;
+    height: 5px;
+}
