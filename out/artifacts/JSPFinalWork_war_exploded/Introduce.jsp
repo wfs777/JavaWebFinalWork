@@ -116,13 +116,13 @@
     <div id="layoutSidenav_content">
         <div style="display: block; width: 90%; margin-left: 40px" >
             <hr style="border:0px solid #000; height:1px">
-            <p><span>姓名：</span>朱瑞旗
-                <img src="img/photo.jpeg" alt="朱瑞旗" style="float:right; margin-right:30px" width="100" height="140"  />
+            <p><span>姓名：</span>wfs777
+                <img src="img/photo.jpeg" alt="wfs777" style="float:right; margin-right:30px" width="100" height="140"  />
             </p>
             <p><span>学号：</span>2000303224</p>
             <p><span>性别：</span>男</p>
             <p><span>出生年月：</span>2002年2月</p>
-            <p><span>移动电话：</span>18042073811</p>
+            <p><span>移动电话：</span>111111</p>
             <p><span>电子邮件：</span><a class="print" href="mailto:rqzhu777@163.com">rqzhu777@163.com</a></p>
             <p><span>学习成绩：</span></p>
         </div>
